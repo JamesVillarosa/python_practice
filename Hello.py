@@ -15,8 +15,7 @@ print("Time take:",time1,time2,time3)
 print("Average Temperature:")
 C1=tem1+temp2+temp3
 Celcius=C1/3
-Farenheit=Celcius*1.8+32
-kelvin=Celcius+273.15
+dskfjlkdsjs
 Rakine=Celcius*1.8+32+459.67
 print("Celsius:",Celcius)
 print("Farenheit:",Farenheit)
